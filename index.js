@@ -1,2 +1,8 @@
-function add (1, 2)
-add(1, 2)
+var a = 1
+var b = 2
+
+function add1(a, b) {
+  a = 1
+}
+
+add1 (a, b)

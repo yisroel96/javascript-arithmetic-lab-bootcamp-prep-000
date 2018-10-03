@@ -24,7 +24,7 @@ function inc(n){
   return number;
 }
 
-fucntion dec(n){
+function dec(n){
   number = n + 1;
   return number;
 }

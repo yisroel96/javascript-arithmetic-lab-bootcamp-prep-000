@@ -5,4 +5,4 @@ function add1(a, b) {
   a = 1
 }
 
-add1 (a, b)
+add1 (1, 2)

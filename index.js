@@ -23,3 +23,8 @@ function inc(n){
   number = n + 1;
   return number;
 }
+
+fucntion dec(n){
+  number = n + 1;
+  return number;
+}
